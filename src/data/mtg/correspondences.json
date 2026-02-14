@@ -1,0 +1,401 @@
+{
+    "colors": {
+        "W": {
+            "drive": [
+                "Order",
+                "Community",
+                "Peace",
+                "Structure"
+            ],
+            "domain": [
+                "Systems",
+                "Law",
+                "Protection",
+                "Morality"
+            ],
+            "shadow": [
+                "Rigidity",
+                "Exclusion",
+                "Dogma",
+                "Authoritarianism"
+            ]
+        },
+        "U": {
+            "drive": [
+                "Perfection",
+                "Knowledge",
+                "Innovation",
+                "Logic"
+            ],
+            "domain": [
+                "Technology",
+                "Mind",
+                "Study",
+                "Planning"
+            ],
+            "shadow": [
+                "Detachment",
+                "Over-analysis",
+                "Deception",
+                "Inaction"
+            ]
+        },
+        "B": {
+            "drive": [
+                "Power",
+                "Ambition",
+                "Agency",
+                "Survival"
+            ],
+            "domain": [
+                "Career",
+                "Wealth",
+                "Secrets",
+                "Death"
+            ],
+            "shadow": [
+                "Greed",
+                "Parasitism",
+                "Nihilism",
+                "Ruthlessness"
+            ]
+        },
+        "R": {
+            "drive": [
+                "Freedom",
+                "Emotion",
+                "Action",
+                "Passion"
+            ],
+            "domain": [
+                "Creativity",
+                "Conflict",
+                "Love",
+                "Art"
+            ],
+            "shadow": [
+                "Impulsivity",
+                "Destruction",
+                "Chaos",
+                "Short-sightedness"
+            ]
+        },
+        "G": {
+            "drive": [
+                "Growth",
+                "Harmony",
+                "Instinct",
+                "Acceptance"
+            ],
+            "domain": [
+                "Health",
+                "Nature",
+                "Tradition",
+                "Community"
+            ],
+            "shadow": [
+                "Stagnation",
+                "Passivity",
+                "Naivety",
+                "Fatalism"
+            ]
+        },
+        "M": {
+            "drive": [
+                "Integration",
+                "Complexity",
+                "Synergy"
+            ],
+            "domain": [
+                "Alliances",
+                "Diverse Interests"
+            ],
+            "shadow": [
+                "Confusion",
+                "Lack of Focus"
+            ]
+        },
+        "C": {
+            "drive": [
+                "Alienation",
+                "Purity",
+                "Function"
+            ],
+            "domain": [
+                "The Unknown",
+                "Artifacts",
+                "Void"
+            ],
+            "shadow": [
+                "Emptiness",
+                "Inhumanity"
+            ]
+        }
+    },
+    "types": {
+        "creature": {
+            "role": "Actor",
+            "dynamics": [
+                "Relationship",
+                "Identity",
+                "Service"
+            ]
+        },
+        "instant": {
+            "role": "Event",
+            "dynamics": [
+                "Surprise",
+                "Reaction",
+                "Flashpoint"
+            ]
+        },
+        "sorcery": {
+            "role": "Action",
+            "dynamics": [
+                "Plan",
+                "Ritual",
+                "Commitment"
+            ]
+        },
+        "enchantment": {
+            "role": "Influence",
+            "dynamics": [
+                "Environment",
+                "State of Being",
+                "Rule"
+            ]
+        },
+        "artifact": {
+            "role": "Tool",
+            "dynamics": [
+                "Resource",
+                "Mechanism",
+                "Memory"
+            ]
+        },
+        "planeswalker": {
+            "role": "Mentor",
+            "dynamics": [
+                "Archetype",
+                "Guide",
+                "Help"
+            ]
+        },
+        "land": {
+            "role": "Foundation",
+            "dynamics": [
+                "Place",
+                "Source",
+                "Context"
+            ]
+        },
+        "battle": {
+            "role": "Conflict",
+            "dynamics": [
+                "Struggle",
+                "Frontier",
+                "Siege"
+            ]
+        }
+    },
+    "keywords": {
+        "flying": {
+            "meaning": "Perspective",
+            "axis": "advice"
+        },
+        "haste": {
+            "meaning": "Urgency",
+            "axis": "drive"
+        },
+        "trample": {
+            "meaning": "Overwhelming Force",
+            "axis": "dynamics"
+        },
+        "vigilance": {
+            "meaning": "Awareness / Steadiness",
+            "axis": "advice"
+        },
+        "deathtouch": {
+            "meaning": "High Stakes / Leverage",
+            "axis": "dynamics"
+        },
+        "lifelink": {
+            "meaning": "Sustainability / Reciprocity",
+            "axis": "advice"
+        },
+        "hexproof": {
+            "meaning": "Inviolability / Boundaries",
+            "axis": "advice"
+        },
+        "ward": {
+            "meaning": "Protection / Cost",
+            "axis": "dynamics"
+        },
+        "indestructible": {
+            "meaning": "Persistence",
+            "axis": "drive"
+        },
+        "defender": {
+            "meaning": "Protection / Stasis",
+            "axis": "dynamics"
+        },
+        "flash": {
+            "meaning": "Timing / Opportunity",
+            "axis": "advice"
+        },
+        "reach": {
+            "meaning": "Preparation",
+            "axis": "advice"
+        },
+        "scry": {
+            "meaning": "Foresight",
+            "axis": "advice"
+        }
+    },
+    "actions": {
+        "destroy": {
+            "meaning": "End / Removal",
+            "axis": "dynamics"
+        },
+        "exile": {
+            "meaning": "Depart / Forget",
+            "axis": "advice"
+        },
+        "draw": {
+            "meaning": "Learn / Accumulate",
+            "axis": "drive"
+        },
+        "discard": {
+            "meaning": "Let go / Sacrifice",
+            "axis": "advice"
+        },
+        "counter": {
+            "meaning": "Deny / Prevent",
+            "axis": "dynamics"
+        },
+        "sacrifice": {
+            "meaning": "Exchange / Loss",
+            "axis": "dynamics"
+        },
+        "search": {
+            "meaning": "Seek / Explore",
+            "axis": "drive"
+        },
+        "create": {
+            "meaning": "Manifest / Produce",
+            "axis": "drive"
+        },
+        "return": {
+            "meaning": "Recover / Regress",
+            "axis": "dynamics"
+        },
+        "tap": {
+            "meaning": "Use / Commit",
+            "axis": "dynamics"
+        },
+        "untap": {
+            "meaning": "Refresh / Renew",
+            "axis": "advice"
+        },
+        "gain life": {
+            "meaning": "Heal / Recover",
+            "axis": "advice"
+        },
+        "lose life": {
+            "meaning": "Cost / Pain",
+            "axis": "dynamics"
+        },
+        "damage": {
+            "meaning": "Conflict / Impact",
+            "axis": "dynamics"
+        },
+        "equip": {
+            "meaning": "Prepare / Enhance",
+            "axis": "advice"
+        }
+    },
+    "manaNumerology": {
+        "0": {
+            "coreTheme": "Potential / Void",
+            "situation": "A blank slate or a foundational resource.",
+            "challenge": "Lack of direction or substance.",
+            "advice": "Build a foundation before acting.",
+            "shadow": "Emptiness, nihilism."
+        },
+        "1": {
+            "coreTheme": "Initiation / Impulse",
+            "situation": "The spark of a new idea or action.",
+            "challenge": "Starting without finishing.",
+            "advice": "Take the first step now.",
+            "shadow": "Impatience, premature action."
+        },
+        "2": {
+            "coreTheme": "Balance / Choice",
+            "situation": "A duality or partnership presents itself.",
+            "challenge": "Indecision or conflict.",
+            "advice": "Weigh your options carefully.",
+            "shadow": "Codependency, stalemate."
+        },
+        "3": {
+            "coreTheme": "Growth / Expression",
+            "situation": "Expansion and creative output.",
+            "challenge": "Scattering energy too thin.",
+            "advice": "Express yourself clearly.",
+            "shadow": "Chaos, lack of focus."
+        },
+        "4": {
+            "coreTheme": "Structure / Stability",
+            "situation": "Establishing order and security.",
+            "challenge": "Rigidity or stagnation.",
+            "advice": "Solidify your position.",
+            "shadow": "Stubbornness, confinement."
+        },
+        "5": {
+            "coreTheme": "Conflict / Change",
+            "situation": "A pivot point or disruption.",
+            "challenge": "Adapting to instability.",
+            "advice": "Embrace the shake-up.",
+            "shadow": "Destructive conflict, panic."
+        },
+        "6": {
+            "coreTheme": "Harmony / Service",
+            "situation": "Alignment and helping others.",
+            "challenge": "Over-giving or martyrdom.",
+            "advice": "Find balance in contribution.",
+            "shadow": "Resentment, perfectionism."
+        },
+        "7": {
+            "coreTheme": "Reflection / Mystery",
+            "situation": "Looking inward or analyzing depth.",
+            "challenge": "Isolation or paralysis by analysis.",
+            "advice": "Trust your intuition.",
+            "shadow": "Deception, withdrawal."
+        },
+        "8": {
+            "coreTheme": "Power / Movement",
+            "situation": "High energy and tangible results.",
+            "challenge": "Burnout or domination.",
+            "advice": "Direct your power wisely.",
+            "shadow": "Tyranny, exhaustion."
+        },
+        "9": {
+            "coreTheme": "Culmination / Wisdom",
+            "situation": "Nearing the end of a cycle.",
+            "challenge": "Letting go of the old.",
+            "advice": "Finish what you started.",
+            "shadow": "Despair, clinging to the past."
+        },
+        "10": {
+            "coreTheme": "Completion / Renewal",
+            "situation": "The full realization and transition.",
+            "challenge": "Fear of the new cycle.",
+            "advice": "Celebrate and prepare to restart.",
+            "shadow": "Refusal to move on."
+        }
+    },
+    "pipModifiers": {
+        "highSaturation": "Intense focus and commitment required.",
+        "balanced": "Integration of diverse elements.",
+        "scattered": "Possible internal conflict or need for compromise."
+    }
+}
