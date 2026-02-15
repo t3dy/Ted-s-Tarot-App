@@ -4,7 +4,8 @@
 
 Arcana Desktop bridges the gap between traditional cartomancy and modern digital design. It features a fully customizable Tarot reading environment, a drag-and-drop spread designer, and a unique "MTG Oracle" engine that interprets *Magic: The Gathering* cards using a custom semantic vector analysis system.
 
-🌟 **[View the Live Asset Dashboard](https://t3dy.github.io/Ted-s-Tarot-App/#/system)** to explore the deck and rules engine running in your browser.
+🌟 **[Launch Arcana Desktop](https://t3dy.github.io/Ted-s-Tarot-App/)** - The full immersive experience.
+🌟 **[View the Live Asset Dashboard](https://t3dy.github.io/Ted-s-Tarot-App/#/system)** - Explore the deck and rules engine.
 
 ---
 
