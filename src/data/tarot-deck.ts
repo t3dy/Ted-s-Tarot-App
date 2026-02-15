@@ -135,3 +135,4 @@ function generateMinorArcana(): TarotCard[] {
 
 export const minorArcana = generateMinorArcana();
 export const fullDeck = [...majorArcana, ...minorArcana];
+export const tarotDeck = fullDeck;
