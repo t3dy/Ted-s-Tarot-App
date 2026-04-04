@@ -153,6 +153,34 @@ footer a { color: var(--accent-light); }
 .page-intro { color: var(--text-muted); margin-bottom: 1.5rem; }
 h2 { color: var(--accent); margin-bottom: 0.5rem; }
 
+/* Figures */
+.figure-card { padding: 0.75rem 0; border-bottom: 1px solid var(--border); }
+.figure-card h4 a { color: var(--accent); text-decoration: none; }
+.figure-card h4 a:hover { text-decoration: underline; }
+.figure-detail .card-meta { margin: 0.5rem 0 1rem; }
+.figure-identity { margin: 1.5rem 0; padding: 1rem; background: var(--bg-alt); border-radius: 8px; }
+.figure-identity p { margin: 0.3rem 0; }
+.figure-bio { margin: 2rem 0; }
+.figure-bio h3 { color: var(--accent); margin-bottom: 0.75rem; }
+.figure-bio p { margin-bottom: 1rem; }
+.figure-works { margin: 2rem 0; }
+.figure-works h3 { color: var(--accent-light); margin-bottom: 0.5rem; }
+.figure-works ul { list-style: none; padding: 0; }
+.figure-works li { padding: 0.4rem 0; border-bottom: 1px solid var(--border); }
+.figure-influences { margin: 2rem 0; }
+.figure-influences h3 { color: var(--accent); margin-bottom: 0.75rem; }
+.figure-influences h4 { color: var(--accent-light); margin: 0.75rem 0 0.3rem; }
+.figure-influences ul { list-style: none; padding: 0; }
+.figure-influences li { padding: 0.3rem 0; }
+.figure-influences a { color: var(--accent); }
+.figure-events { margin: 2rem 0; }
+.figure-events h3 { color: var(--accent); margin-bottom: 0.75rem; }
+.figure-terms { margin: 2rem 0; }
+.figure-terms h3 { color: var(--accent-light); margin-bottom: 0.5rem; }
+.term-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.term-tags a { text-decoration: none; color: var(--accent); background: var(--bg-alt); border: 1px solid var(--border); }
+.term-tags a:hover { border-color: var(--accent); }
+
 /* Cards */
 .card-detail .card-meta { margin: 0.5rem 0 1.5rem; }
 .correspondences { margin: 1.5rem 0; }
