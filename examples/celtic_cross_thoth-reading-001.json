@@ -1,0 +1,435 @@
+{
+  "reading_meta": {
+    "spread": "celtic_cross",
+    "seed": "thoth-reading-001",
+    "tradition_mode": "thoth",
+    "methods": [
+      "dialectical",
+      "elemental-dignity-analysis",
+      "narrative-arc"
+    ],
+    "allow_reversals": true,
+    "created_at": "2026-04-04T08:01:14.763066+00:00",
+    "run_id": 5
+  },
+  "positions": [
+    {
+      "position_number": 1,
+      "position_slug": "present",
+      "position_name": "Present Situation",
+      "position_question": "What pattern is active now? What is the matter in motion?",
+      "card": {
+        "id": 7,
+        "name": "The Lovers",
+        "is_reversed": false,
+        "tradition_used": "thoth"
+      },
+      "meaning": {
+        "orientation": "upright",
+        "keywords": "Cancer; new beginning, change for the good; introspection, meditation, spiritual path",
+        "text": "Drawing this card may indicate a wonderful and exciting love relationship. Current relationships either deepen or end. New methods for personal growth and integration of your own opposing aspects present themselves as you turn toward and interact with a partner or group.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What contradiction is already active in the present situation, and how does this card name the dominant force within it?\n\nCard: The Lovers (Upright). Keywords: Cancer; new beginning, change for the good; introspection, meditation, spiritual path. \nGoal: Identify the central tension\nContradiction probe: What does this card affirm here, and what does it implicitly negate?\nSynthesis probe: What would it mean to move from mere conflict to intelligible development?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What element dominates the present situation, and what mode of engagement does it indicate?\n\nCard: The Lovers (Upright). Keywords: Cancer; new beginning, change for the good; introspection, meditation, spiritual path. \nGoal: Identify the elemental tone",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "Who is the protagonist of this story, and what scene opens the narrative?\n\nCard: The Lovers (Upright). Keywords: Cancer; new beginning, change for the good; introspection, meditation, spiritual path. \nGoal: Set the opening scene",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 2,
+      "position_slug": "crossing",
+      "position_name": "Crossing / Obstacle",
+      "position_question": "What crosses, complicates, or conditions the situation?",
+      "card": {
+        "id": 48,
+        "name": "Knight of Cups",
+        "is_reversed": false,
+        "tradition_used": "thoth"
+      },
+      "meaning": {
+        "orientation": "upright",
+        "keywords": "",
+        "text": "You yearn for intensive interchange with those of like mind and like outlook.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "How does this crossing card complicate, challenge, intensify, or condition the present matter?\n\nCard: Knight of Cups (Upright). \nGoal: Identify the complicating force\nContradiction probe: Is this truly an obstacle, or is it a demand for transformation?\nSynthesis probe: What change in perspective would convert blockage into mediation?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "Does the crossing card's element support, weaken, or conflict with the present card's element?\n\nCard: Knight of Cups (Upright). \nGoal: Read the elemental interaction at the cross",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What complication enters the story? What obstacle or antagonist appears?\n\nCard: Knight of Cups (Upright). \nGoal: Introduce the complication",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 3,
+      "position_slug": "below",
+      "position_name": "Below / Root",
+      "position_question": "What deeper structure, motive, inheritance, or unconscious pattern underlies the matter?",
+      "card": {
+        "id": 69,
+        "name": "Five of Pentacles",
+        "is_reversed": true,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "reversed",
+        "keywords": "The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonour, depravity. King of Cups",
+        "text": "The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonour, depravity. King of Cups",
+        "fallback": true
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What root contradiction, inheritance, or submerged logic underlies the spread at this deeper level?\n\nCard: Five of Pentacles (Reversed). Keywords: The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonour, depravity. King of Cups. \nGoal: Identify the hidden foundation\nContradiction probe: What does the querent assume is settled that is actually in motion?\nSynthesis probe: How does this root reshape the meaning of the present and crossing cards?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What elemental quality lies beneath \u2014 is the root grounded (earth), flowing (water), volatile (fire), or dispersed (air)?\n\nCard: Five of Pentacles (Reversed). Keywords: The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonour, depravity. King of Cups. \nGoal: Identify the foundational element",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What backstory or hidden motivation drives the protagonist's actions?\n\nCard: Five of Pentacles (Reversed). Keywords: The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonour, depravity. King of Cups. \nGoal: Reveal the backstory",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 4,
+      "position_slug": "behind",
+      "position_name": "Behind / Past",
+      "position_question": "What is receding but still causally active?",
+      "card": {
+        "id": 46,
+        "name": "Ten of Cups",
+        "is_reversed": false,
+        "tradition_used": "thoth"
+      },
+      "meaning": {
+        "orientation": "upright",
+        "keywords": "Mars in Pisces; satisfaction, fulfillment; radiating",
+        "text": "Let things develop by themselves. Everything comes to you at the right moment.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What is the querent leaving behind, and how does this card show what is being released or denied?\n\nCard: Ten of Cups (Upright). Keywords: Mars in Pisces; satisfaction, fulfillment; radiating. \nGoal: Name what is receding\nContradiction probe: Is this truly past, or is the querent dragging it forward?\nSynthesis probe: How does the relationship between past and present reveal the direction of movement?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What elemental energy is the querent moving away from?\n\nCard: Ten of Cups (Upright). Keywords: Mars in Pisces; satisfaction, fulfillment; radiating. \nGoal: Read elemental transition from past",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What previous chapter is ending? What inciting incident set this story in motion?\n\nCard: Ten of Cups (Upright). Keywords: Mars in Pisces; satisfaction, fulfillment; radiating. \nGoal: Identify the inciting incident",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 5,
+      "position_slug": "above",
+      "position_name": "Above / Conscious Aim",
+      "position_question": "What ideal, goal, fear, narrative, or conscious framing governs the querent's thought?",
+      "card": {
+        "id": 15,
+        "name": "Temperance",
+        "is_reversed": true,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "reversed",
+        "keywords": "Excessive self- restraint. Anorexia. Bad combination",
+        "text": "Excessive self- restraint. Anorexia. Bad combination",
+        "fallback": true
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What conscious aim, ideal, or self-narrative is the querent holding above the actual situation?\n\nCard: Temperance (Reversed). Keywords: Excessive self- restraint. Anorexia. Bad combination. \nGoal: Expose the conscious framing\nContradiction probe: Does this crown support or distort the querent's engagement with reality?\nSynthesis probe: What happens if the ideal and the actual are brought into honest contact?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "Does the conscious aim share the present card's element, or does it pull toward a different elemental mode?\n\nCard: Temperance (Reversed). Keywords: Excessive self- restraint. Anorexia. Bad combination. \nGoal: Check alignment between aim and situation",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What does the protagonist believe the story is about? What is their stated quest?\n\nCard: Temperance (Reversed). Keywords: Excessive self- restraint. Anorexia. Bad combination. \nGoal: Name the conscious quest",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 6,
+      "position_slug": "before",
+      "position_name": "Before / Near Future",
+      "position_question": "What is beginning to emerge next if current tendencies continue?",
+      "card": {
+        "id": 54,
+        "name": "Four of Swords",
+        "is_reversed": false,
+        "tradition_used": "thoth"
+      },
+      "meaning": {
+        "orientation": "upright",
+        "keywords": "Jupiter in Libra; calm, centered; clarity; spiritual cleansing; integration; expansion",
+        "text": "You have enough inner clarity to successfully carry out your plans. Be sure at all times that you feel good about what is happening.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What is forming in the near future, and what does this card suggest about the trajectory of the current dynamic?\n\nCard: Four of Swords (Upright). Keywords: Jupiter in Libra; calm, centered; clarity; spiritual cleansing; integration; expansion. \nGoal: Read the emerging tendency\nContradiction probe: Is this future a development of the present contradiction, or an escape from it?\nSynthesis probe: What would it take to redirect this tendency toward genuine resolution?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What elemental shift is emerging in the near future? Does it continue, disrupt, or balance the current elemental pattern?\n\nCard: Four of Swords (Upright). Keywords: Jupiter in Libra; calm, centered; clarity; spiritual cleansing; integration; expansion. \nGoal: Read the coming elemental change",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What plot development is approaching? What does the next chapter hold?\n\nCard: Four of Swords (Upright). Keywords: Jupiter in Libra; calm, centered; clarity; spiritual cleansing; integration; expansion. \nGoal: Foreshadow the next turn",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 7,
+      "position_slug": "self",
+      "position_name": "Self",
+      "position_question": "How is the querent positioned within the matter?",
+      "card": {
+        "id": 57,
+        "name": "Seven of Swords",
+        "is_reversed": false,
+        "tradition_used": "thoth"
+      },
+      "meaning": {
+        "orientation": "upright",
+        "keywords": "Jupiter in Gemini; problems with endurance; worry from thinking too much; difficulty in making a choice. Two strong central swords are crossed by six crooked sabers. You find yourself having to choose between two alternatives of apparently equal merit. You will not come to a decision by reflecting analytically. Your doubt, or fears of making the wrong choice, constantly destroy your inner clarity. You are also lacking endurance, which you will need if you are to clarify this confused situation. No matter where you turn, no satisfactory solution seems to exist. The more you try to unravel",
+        "text": "Let things rest and develop on their own for a while. As long as doubt concerning these decisions remains, don't go for anything new. Jupiter is harbinger of unforeseen and unexpected change for the better. The problem which seems unsolvable now will find its own solution in its own way.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "How does this card reveal the querent's self-image, and where does that self-image serve or betray them?\n\nCard: Seven of Swords (Upright). Keywords: Jupiter in Gemini; problems with endurance; worry from thinking too much; difficulty in making a choice. Two strong central swords are crossed by six crooked sabers. You find yourself having to choose. \nGoal: Examine self-perception\nContradiction probe: Where does the querent's self-understanding match the situation, and where does it diverge?\nSynthesis probe: What self-knowledge would the querent need to hold both their self-image and the crossing card simultaneously?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What element does the querent identify with in this situation? Is it their natural element or an adopted one?\n\nCard: Seven of Swords (Upright). Keywords: Jupiter in Gemini; problems with endurance; worry from thinking too much; difficulty in making a choice. Two strong central swords are crossed by six crooked sabers. You find yourself having to choose. \nGoal: Read the querent's elemental identity",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "How does the protagonist see themselves \u2014 as hero, victim, rebel, sage, or fool?\n\nCard: Seven of Swords (Upright). Keywords: Jupiter in Gemini; problems with endurance; worry from thinking too much; difficulty in making a choice. Two strong central swords are crossed by six crooked sabers. You find yourself having to choose. \nGoal: Characterize the protagonist's self-image",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 8,
+      "position_slug": "environment",
+      "position_name": "Environment / Others",
+      "position_question": "What social field, other party, institution, or surrounding pressure is acting here?",
+      "card": {
+        "id": 43,
+        "name": "Seven of Cups",
+        "is_reversed": true,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "reversed",
+        "keywords": "The same, but the results are disastrous; another account says \u2014conception, childbirth, augmentation, multiplicity.",
+        "text": "The same, but the results are disastrous; another account says \u2014conception, childbirth, augmentation, multiplicity.",
+        "fallback": true
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What external force, other person, or environmental pressure is acting on the situation, and how does this card name it?\n\nCard: Seven of Cups (Reversed). Keywords: The same, but the results are disastrous; another account says \u2014conception, childbirth, augmentation, multiplicity.. \nGoal: Identify the social field\nContradiction probe: Is this external force aligned with the querent's aims or working against them?\nSynthesis probe: How does the relationship between self (position 7) and environment reshape the reading?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What elemental quality dominates the environment? Does it nourish or starve the querent's element?\n\nCard: Seven of Cups (Reversed). Keywords: The same, but the results are disastrous; another account says \u2014conception, childbirth, augmentation, multiplicity.. \nGoal: Read the environmental element",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What is the setting? Who are the supporting characters? What social world surrounds the action?\n\nCard: Seven of Cups (Reversed). Keywords: The same, but the results are disastrous; another account says \u2014conception, childbirth, augmentation, multiplicity.. \nGoal: Build the world",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 9,
+      "position_slug": "hopes_fears",
+      "position_name": "Hopes and Fears",
+      "position_question": "What projection destabilizes interpretation by mixing desire and anxiety?",
+      "card": {
+        "id": 18,
+        "name": "The Star",
+        "is_reversed": false,
+        "tradition_used": "thoth"
+      },
+      "meaning": {
+        "orientation": "upright",
+        "keywords": "Aquarius; inspiration, crystallization, self-recognition, radiat- ing, clear vision, trust in the self; connection to universal intelligence",
+        "text": "Let your star rise, and stay in contact with the earth. Trust your environment and find ways to let others share in it. You will be tested and recognized by the fruits you bear.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "How does this card show the entanglement of desire and anxiety \u2014 what the querent hopes for that they also fear?\n\nCard: The Star (Upright). Keywords: Aquarius; inspiration, crystallization, self-recognition, radiat- ing, clear vision, trust in the self; connection to universal intelligence. \nGoal: Name the projection\nContradiction probe: What does the querent hope for that they also fear? What would change if they named it clearly?\nSynthesis probe: How does this hope-fear entanglement distort the querent's reading of the outcome?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "Is the hopes/fears card elementally aligned with the querent's desire or their anxiety?\n\nCard: The Star (Upright). Keywords: Aquarius; inspiration, crystallization, self-recognition, radiat- ing, clear vision, trust in the self; connection to universal intelligence. \nGoal: Separate hope-element from fear-element",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What does the protagonist secretly want? What twist would fulfill their hope and their fear simultaneously?\n\nCard: The Star (Upright). Keywords: Aquarius; inspiration, crystallization, self-recognition, radiat- ing, clear vision, trust in the self; connection to universal intelligence. \nGoal: Identify the hidden desire",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 10,
+      "position_slug": "outcome",
+      "position_name": "Outcome",
+      "position_question": "What configuration is likely if the dynamic is allowed to unfold?",
+      "card": {
+        "id": 21,
+        "name": "Judgement",
+        "is_reversed": true,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "reversed",
+        "keywords": "Hesitation. Delay. Postponement. Sentence",
+        "text": "Hesitation. Delay. Postponement. Sentence",
+        "fallback": true
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What outcome becomes likely if the present contradiction unfolds without interruption?\n\nCard: Judgement (Reversed). Keywords: Hesitation. Delay. Postponement. Sentence. \nGoal: Read the probable resolution\nContradiction probe: Does this outcome reconcile the spread, displace the conflict, or repeat it at a higher intensity?\nSynthesis probe: What intervention between now and the outcome would transform the trajectory?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "Does the outcome element resolve the elemental tensions in the spread, or leave them unresolved?\n\nCard: Judgement (Reversed). Keywords: Hesitation. Delay. Postponement. Sentence. \nGoal: Read the elemental resolution",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "How does the story end if the protagonist doesn't change? What resolution or repetition awaits?\n\nCard: Judgement (Reversed). Keywords: Hesitation. Delay. Postponement. Sentence. \nGoal: Write the ending",
+          "provenance": "heuristic"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "left_position": 2,
+      "right_position": 10,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Fire vs Water: hostile elements weaken each other"
+    },
+    {
+      "left_position": 3,
+      "right_position": 6,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Air vs Earth: hostile elements weaken each other"
+    },
+    {
+      "left_position": 3,
+      "right_position": 7,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Air vs Earth: hostile elements weaken each other"
+    },
+    {
+      "left_position": 4,
+      "right_position": 10,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Fire vs Water: hostile elements weaken each other"
+    },
+    {
+      "left_position": 7,
+      "right_position": 8,
+      "relation_type": "numerical_echo",
+      "label": "Number Echo",
+      "description": "Both number 7: shared Qabalistic resonance (7)"
+    },
+    {
+      "left_position": 8,
+      "right_position": 10,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Fire vs Water: hostile elements weaken each other"
+    }
+  ],
+  "analytics": {
+    "major_count": 4,
+    "court_count": 1,
+    "suit_distribution": {
+      "cups": 3,
+      "pentacles": 1,
+      "swords": 2
+    },
+    "element_balance": {
+      "water": 3,
+      "earth": 1,
+      "air": 2,
+      "fire": 1
+    },
+    "number_echoes": [
+      7
+    ],
+    "reversal_count": 4
+  },
+  "synthesis": {
+    "central_contradiction": "The central tension lies between The Lovers (present) and Knight of Cups (crossing).",
+    "developmental_arc": "The spread is dominated by Cups (3 cards), emphasizing emotion, relationships, and inner life. 4 Major Arcana cards suggest a balance of personal agency and larger forces. Heavy reversals indicate a period of transition, release, or internal processing. Number echo at 7 \u2014 repeated Qabalistic resonance amplifying that theme.",
+    "likely_outcome": "If this dynamic unfolds without intervention, it resolves toward Judgement."
+  }
+}

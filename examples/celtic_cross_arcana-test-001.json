@@ -1,0 +1,473 @@
+{
+  "reading_meta": {
+    "spread": "celtic_cross",
+    "seed": "arcana-test-001",
+    "tradition_mode": "rws",
+    "methods": [
+      "dialectical",
+      "elemental-dignity-analysis",
+      "narrative-arc"
+    ],
+    "allow_reversals": true,
+    "created_at": "2026-04-04T07:53:08.793304+00:00",
+    "run_id": 1
+  },
+  "positions": [
+    {
+      "position_number": 1,
+      "position_slug": "present",
+      "position_name": "Present Situation",
+      "position_question": "What pattern is active now? What is the matter in motion?",
+      "card": {
+        "id": 60,
+        "name": "Ten of Swords",
+        "is_reversed": true,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "reversed",
+        "keywords": "Voided ambition, vanity, cupidity, exaction, usury. It may also signify the possession of skill, in the sense of the ingenious mind turned to cunning and intrigue.",
+        "text": "Voided ambition, vanity, cupidity, exaction, usury. It may also signify the possession of skill, in the sense of the ingenious mind turned to cunning and intrigue.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What contradiction is already active in the present situation, and how does this card name the dominant force within it?\n\nCard: Ten of Swords (Reversed). Keywords: Voided ambition, vanity, cupidity, exaction, usury. It may also signify the possession of skill, in the sense of the ingenious mind turned to cunning and intrigue.. \nGoal: Identify the central tension\nContradiction probe: What does this card affirm here, and what does it implicitly negate?\nSynthesis probe: What would it mean to move from mere conflict to intelligible development?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What element dominates the present situation, and what mode of engagement does it indicate?\n\nCard: Ten of Swords (Reversed). Keywords: Voided ambition, vanity, cupidity, exaction, usury. It may also signify the possession of skill, in the sense of the ingenious mind turned to cunning and intrigue.. \nGoal: Identify the elemental tone",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "Who is the protagonist of this story, and what scene opens the narrative?\n\nCard: Ten of Swords (Reversed). Keywords: Voided ambition, vanity, cupidity, exaction, usury. It may also signify the possession of skill, in the sense of the ingenious mind turned to cunning and intrigue.. \nGoal: Set the opening scene",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 2,
+      "position_slug": "crossing",
+      "position_name": "Crossing / Obstacle",
+      "position_question": "What crosses, complicates, or conditions the situation?",
+      "card": {
+        "id": 70,
+        "name": "Six of Pentacles",
+        "is_reversed": true,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "reversed",
+        "keywords": "Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss.",
+        "text": "Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "How does this crossing card complicate, challenge, intensify, or condition the present matter?\n\nCard: Six of Pentacles (Reversed). Keywords: Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss.. \nGoal: Identify the complicating force\nContradiction probe: Is this truly an obstacle, or is it a demand for transformation?\nSynthesis probe: What change in perspective would convert blockage into mediation?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "Does the crossing card's element support, weaken, or conflict with the present card's element?\n\nCard: Six of Pentacles (Reversed). Keywords: Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss.. \nGoal: Read the elemental interaction at the cross",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What complication enters the story? What obstacle or antagonist appears?\n\nCard: Six of Pentacles (Reversed). Keywords: Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss.. \nGoal: Introduce the complication",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 3,
+      "position_slug": "below",
+      "position_name": "Below / Root",
+      "position_question": "What deeper structure, motive, inheritance, or unconscious pattern underlies the matter?",
+      "card": {
+        "id": 3,
+        "name": "The High Priestess",
+        "is_reversed": false,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "upright",
+        "keywords": "Radical theories. New paradigms | Waite: Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male; the Querent herself, if female; silence, tenacity; mystery, wisdom, science.",
+        "text": "Radical theories. New paradigms. Reversed: False revelations. Incorrect conclusions.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What root contradiction, inheritance, or submerged logic underlies the spread at this deeper level?\n\nCard: The High Priestess (Upright). Keywords: Radical theories. New paradigms | Waite: Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male; the Querent herself, if female; silence, tenacity; mystery, wisdo. \nGoal: Identify the hidden foundation\nContradiction probe: What does the querent assume is settled that is actually in motion?\nSynthesis probe: How does this root reshape the meaning of the present and crossing cards?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What elemental quality lies beneath \u2014 is the root grounded (earth), flowing (water), volatile (fire), or dispersed (air)?\n\nCard: The High Priestess (Upright). Keywords: Radical theories. New paradigms | Waite: Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male; the Querent herself, if female; silence, tenacity; mystery, wisdo. \nGoal: Identify the foundational element",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What backstory or hidden motivation drives the protagonist's actions?\n\nCard: The High Priestess (Upright). Keywords: Radical theories. New paradigms | Waite: Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male; the Querent herself, if female; silence, tenacity; mystery, wisdo. \nGoal: Reveal the backstory",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 4,
+      "position_slug": "behind",
+      "position_name": "Behind / Past",
+      "position_question": "What is receding but still causally active?",
+      "card": {
+        "id": 16,
+        "name": "The Devil",
+        "is_reversed": true,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "reversed",
+        "keywords": "Fate at its cruelest. Nature\u2019s dark side. Unavoidable evil",
+        "text": "Fate at its cruelest. Nature\u2019s dark side. Unavoidable evil",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What is the querent leaving behind, and how does this card show what is being released or denied?\n\nCard: The Devil (Reversed). Keywords: Fate at its cruelest. Nature\u2019s dark side. Unavoidable evil. \nGoal: Name what is receding\nContradiction probe: Is this truly past, or is the querent dragging it forward?\nSynthesis probe: How does the relationship between past and present reveal the direction of movement?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What elemental energy is the querent moving away from?\n\nCard: The Devil (Reversed). Keywords: Fate at its cruelest. Nature\u2019s dark side. Unavoidable evil. \nGoal: Read elemental transition from past",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What previous chapter is ending? What inciting incident set this story in motion?\n\nCard: The Devil (Reversed). Keywords: Fate at its cruelest. Nature\u2019s dark side. Unavoidable evil. \nGoal: Identify the inciting incident",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 5,
+      "position_slug": "above",
+      "position_name": "Above / Conscious Aim",
+      "position_question": "What ideal, goal, fear, narrative, or conscious framing governs the querent's thought?",
+      "card": {
+        "id": 39,
+        "name": "Three of Cups",
+        "is_reversed": false,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "upright",
+        "keywords": "Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.",
+        "text": "Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What conscious aim, ideal, or self-narrative is the querent holding above the actual situation?\n\nCard: Three of Cups (Upright). Keywords: Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.. \nGoal: Expose the conscious framing\nContradiction probe: Does this crown support or distort the querent's engagement with reality?\nSynthesis probe: What happens if the ideal and the actual are brought into honest contact?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "Does the conscious aim share the present card's element, or does it pull toward a different elemental mode?\n\nCard: Three of Cups (Upright). Keywords: Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.. \nGoal: Check alignment between aim and situation",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What does the protagonist believe the story is about? What is their stated quest?\n\nCard: Three of Cups (Upright). Keywords: Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.. \nGoal: Name the conscious quest",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 6,
+      "position_slug": "before",
+      "position_name": "Before / Near Future",
+      "position_question": "What is beginning to emerge next if current tendencies continue?",
+      "card": {
+        "id": 32,
+        "name": "Ten of Wands",
+        "is_reversed": true,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "reversed",
+        "keywords": "Contrarieties, difficulties, intrigues, and their analogies.",
+        "text": "Contrarieties, difficulties, intrigues, and their analogies.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What is forming in the near future, and what does this card suggest about the trajectory of the current dynamic?\n\nCard: Ten of Wands (Reversed). Keywords: Contrarieties, difficulties, intrigues, and their analogies.. \nGoal: Read the emerging tendency\nContradiction probe: Is this future a development of the present contradiction, or an escape from it?\nSynthesis probe: What would it take to redirect this tendency toward genuine resolution?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What elemental shift is emerging in the near future? Does it continue, disrupt, or balance the current elemental pattern?\n\nCard: Ten of Wands (Reversed). Keywords: Contrarieties, difficulties, intrigues, and their analogies.. \nGoal: Read the coming elemental change",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What plot development is approaching? What does the next chapter hold?\n\nCard: Ten of Wands (Reversed). Keywords: Contrarieties, difficulties, intrigues, and their analogies.. \nGoal: Foreshadow the next turn",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 7,
+      "position_slug": "self",
+      "position_name": "Self",
+      "position_question": "How is the querent positioned within the matter?",
+      "card": {
+        "id": 53,
+        "name": "Three of Swords",
+        "is_reversed": true,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "reversed",
+        "keywords": "The evil side of wealth, bad intelligence; also great riches. In any case it shews prosperity, comfortable material conditions, but whether these are of advantage to the possessor will depend on whether the card is reversed or not.",
+        "text": "The evil side of wealth, bad intelligence; also great riches. In any case it shews prosperity, comfortable material conditions, but whether these are of advantage to the possessor will depend on wheth",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "How does this card reveal the querent's self-image, and where does that self-image serve or betray them?\n\nCard: Three of Swords (Reversed). Keywords: The evil side of wealth, bad intelligence; also great riches. In any case it shews prosperity, comfortable material conditions, but whether these are of advantage to the possessor will depend on wheth. \nGoal: Examine self-perception\nContradiction probe: Where does the querent's self-understanding match the situation, and where does it diverge?\nSynthesis probe: What self-knowledge would the querent need to hold both their self-image and the crossing card simultaneously?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What element does the querent identify with in this situation? Is it their natural element or an adopted one?\n\nCard: Three of Swords (Reversed). Keywords: The evil side of wealth, bad intelligence; also great riches. In any case it shews prosperity, comfortable material conditions, but whether these are of advantage to the possessor will depend on wheth. \nGoal: Read the querent's elemental identity",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "How does the protagonist see themselves \u2014 as hero, victim, rebel, sage, or fool?\n\nCard: Three of Swords (Reversed). Keywords: The evil side of wealth, bad intelligence; also great riches. In any case it shews prosperity, comfortable material conditions, but whether these are of advantage to the possessor will depend on wheth. \nGoal: Characterize the protagonist's self-image",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 8,
+      "position_slug": "environment",
+      "position_name": "Environment / Others",
+      "position_question": "What social field, other party, institution, or surrounding pressure is acting here?",
+      "card": {
+        "id": 38,
+        "name": "Two of Cups",
+        "is_reversed": true,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "reversed",
+        "keywords": "The future, renewal, that which will come to pass presently.",
+        "text": "The future, renewal, that which will come to pass presently.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What external force, other person, or environmental pressure is acting on the situation, and how does this card name it?\n\nCard: Two of Cups (Reversed). Keywords: The future, renewal, that which will come to pass presently.. \nGoal: Identify the social field\nContradiction probe: Is this external force aligned with the querent's aims or working against them?\nSynthesis probe: How does the relationship between self (position 7) and environment reshape the reading?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "What elemental quality dominates the environment? Does it nourish or starve the querent's element?\n\nCard: Two of Cups (Reversed). Keywords: The future, renewal, that which will come to pass presently.. \nGoal: Read the environmental element",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What is the setting? Who are the supporting characters? What social world surrounds the action?\n\nCard: Two of Cups (Reversed). Keywords: The future, renewal, that which will come to pass presently.. \nGoal: Build the world",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 9,
+      "position_slug": "hopes_fears",
+      "position_name": "Hopes and Fears",
+      "position_question": "What projection destabilizes interpretation by mixing desire and anxiety?",
+      "card": {
+        "id": 69,
+        "name": "Five of Pentacles",
+        "is_reversed": false,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "upright",
+        "keywords": "Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and a good mother.",
+        "text": "Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and a good mother.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "How does this card show the entanglement of desire and anxiety \u2014 what the querent hopes for that they also fear?\n\nCard: Five of Pentacles (Upright). Keywords: Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and . \nGoal: Name the projection\nContradiction probe: What does the querent hope for that they also fear? What would change if they named it clearly?\nSynthesis probe: How does this hope-fear entanglement distort the querent's reading of the outcome?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "Is the hopes/fears card elementally aligned with the querent's desire or their anxiety?\n\nCard: Five of Pentacles (Upright). Keywords: Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and . \nGoal: Separate hope-element from fear-element",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "What does the protagonist secretly want? What twist would fulfill their hope and their fear simultaneously?\n\nCard: Five of Pentacles (Upright). Keywords: Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and . \nGoal: Identify the hidden desire",
+          "provenance": "heuristic"
+        }
+      ]
+    },
+    {
+      "position_number": 10,
+      "position_slug": "outcome",
+      "position_name": "Outcome",
+      "position_question": "What configuration is likely if the dynamic is allowed to unfold?",
+      "card": {
+        "id": 66,
+        "name": "Two of Pentacles",
+        "is_reversed": false,
+        "tradition_used": "rws"
+      },
+      "meaning": {
+        "orientation": "upright",
+        "keywords": "Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.",
+        "text": "Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.",
+        "fallback": false
+      },
+      "method_interpretations": [
+        {
+          "method": "Dialectical Reading",
+          "text": "What outcome becomes likely if the present contradiction unfolds without interruption?\n\nCard: Two of Pentacles (Upright). Keywords: Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.. \nGoal: Read the probable resolution\nContradiction probe: Does this outcome reconcile the spread, displace the conflict, or repeat it at a higher intensity?\nSynthesis probe: What intervention between now and the outcome would transform the trajectory?",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Elemental Dignity Analysis",
+          "text": "Does the outcome element resolve the elemental tensions in the spread, or leave them unresolved?\n\nCard: Two of Pentacles (Upright). Keywords: Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.. \nGoal: Read the elemental resolution",
+          "provenance": "heuristic"
+        },
+        {
+          "method": "Narrative/Story Reading",
+          "text": "How does the story end if the protagonist doesn't change? What resolution or repetition awaits?\n\nCard: Two of Pentacles (Upright). Keywords: Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.. \nGoal: Write the ending",
+          "provenance": "heuristic"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "left_position": 1,
+      "right_position": 2,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Air vs Earth: hostile elements weaken each other"
+    },
+    {
+      "left_position": 1,
+      "right_position": 6,
+      "relation_type": "numerical_echo",
+      "label": "Number Echo",
+      "description": "Both number 10: shared Qabalistic resonance (10)"
+    },
+    {
+      "left_position": 1,
+      "right_position": 9,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Air vs Earth: hostile elements weaken each other"
+    },
+    {
+      "left_position": 1,
+      "right_position": 10,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Air vs Earth: hostile elements weaken each other"
+    },
+    {
+      "left_position": 2,
+      "right_position": 7,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Air vs Earth: hostile elements weaken each other"
+    },
+    {
+      "left_position": 5,
+      "right_position": 6,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Fire vs Water: hostile elements weaken each other"
+    },
+    {
+      "left_position": 5,
+      "right_position": 7,
+      "relation_type": "numerical_echo",
+      "label": "Number Echo",
+      "description": "Both number 3: shared Qabalistic resonance (3)"
+    },
+    {
+      "left_position": 6,
+      "right_position": 8,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Fire vs Water: hostile elements weaken each other"
+    },
+    {
+      "left_position": 7,
+      "right_position": 9,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Air vs Earth: hostile elements weaken each other"
+    },
+    {
+      "left_position": 7,
+      "right_position": 10,
+      "relation_type": "elemental_conflict",
+      "label": "Elemental Conflict",
+      "description": "Air vs Earth: hostile elements weaken each other"
+    },
+    {
+      "left_position": 8,
+      "right_position": 10,
+      "relation_type": "numerical_echo",
+      "label": "Number Echo",
+      "description": "Both number 2: shared Qabalistic resonance (2)"
+    }
+  ],
+  "analytics": {
+    "major_count": 2,
+    "court_count": 0,
+    "suit_distribution": {
+      "swords": 2,
+      "pentacles": 3,
+      "cups": 2,
+      "wands": 1
+    },
+    "element_balance": {
+      "air": 2,
+      "earth": 3,
+      "water": 2,
+      "fire": 1
+    },
+    "number_echoes": [
+      2,
+      3,
+      10
+    ],
+    "reversal_count": 6
+  },
+  "synthesis": {
+    "central_contradiction": "The central tension lies between Ten of Swords (present) and Six of Pentacles (crossing).",
+    "developmental_arc": "The spread is dominated by Pentacles (3 cards), emphasizing material reality, practical concerns, and grounding. Personal agency dominates \u2014 the querent is in control, and the forces at play are within their power to direct. Heavy reversals indicate a period of transition, release, or internal processing. Number echos at 2, 3, 10 \u2014 repeated Qabalistic resonance amplifying those themes.",
+    "likely_outcome": "If this dynamic unfolds without intervention, it resolves toward Two of Pentacles."
+  }
+}
