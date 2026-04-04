@@ -6,6 +6,7 @@ Arcana Desktop bridges the gap between traditional cartomancy and modern digital
 
 🌟 **[Launch Arcana Desktop](https://t3dy.github.io/Ted-s-Tarot-App/)** - The full immersive experience.
 🌟 **[View the Live Asset Dashboard](https://t3dy.github.io/Ted-s-Tarot-App/#/system)** - Explore the deck and rules engine.
+📜 **[Arcana Encyclopaedia](https://t3dy.github.io/Ted-s-Tarot-App/)** - Scholarly dictionary and timeline of tarot history.
 
 ---
 
